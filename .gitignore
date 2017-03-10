@@ -1,0 +1,17 @@
+#security / ssl
+*.pem
+*.xxjson
+
+#temporary files
+.tmp
+
+# Folders
+_obj
+_test
+
+#media
+*.ogg
+*.mp3
+*.mp4
+*.png
+*.jpeg
